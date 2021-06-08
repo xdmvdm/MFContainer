@@ -11,7 +11,7 @@ export default () => {
       <hr />
       <ProductApp />
       <hr />
-      <h3>!!!Items added to cart are:</h3>
+      <h3>!!!Items added to the cart are:</h3>
       <hr />
 
       <CartApp/>
